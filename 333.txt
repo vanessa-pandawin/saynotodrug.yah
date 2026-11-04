@@ -33,11 +33,11 @@
     <title>YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru</title>
     <meta name="description" content="YY555 Saatnya menjelajahi perkembangan aplikasi hiburan digital melalui fitur interaktif, desain modern, akses yang fleksibel, serta pengalaman mobile yang mengikuti perkembangan teknologi.">
 	  <link rel="amphtml" href="https://saynotodrug-yah.pages.dev/333" />
-    <link rel="alternate" hreflang="id-id" href="https://consuldesk.ca/resourses/"/>
-    <link rel="alternate" href="https://consuldesk.ca/resourses/"/>
-    <link rel="alternate" hreflang="id" href="https://consuldesk.ca/resourses/"/>
-    <link rel="alternate" hreflang="en" href="https://consuldesk.ca/resourses/"/>
-    <link rel="alternate" hreflang="x-default" href="https://consuldesk.ca/resourses/"/>
+    <link rel="alternate" hreflang="id-id" href="https://vanporciuncula.brightsense.io/"/>
+    <link rel="alternate" href="https://vanporciuncula.brightsense.io/"/>
+    <link rel="alternate" hreflang="id" href="https://vanporciuncula.brightsense.io/"/>
+    <link rel="alternate" hreflang="en" href="https://vanporciuncula.brightsense.io/"/>
+    <link rel="alternate" hreflang="x-default" href="https://vanporciuncula.brightsense.io/"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="YY555">
     <link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBE4undf3G3HF4Wn20AOVXYoXJSrHu9MV425JqHUHazo4oWuVg9zJhgAGyFPPT7T6zcqJXfE1WlJCqK-WZQkPAEA9jG2aPjYr3Rfkw97SKWYM6zoC1VD3FY1w4jScxqc0iJRPVeMcX5ezFPiVb17EkwDHwNr_lnNnwlPZCPp0-JO9D9ZclL58e6la2mPD/w200-h133/20261103_154953157_iOS.png">
@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://consuldesk.ca/resourses/">
+    <link rel="canonical" href="https://vanporciuncula.brightsense.io/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "YY555",
   "mpn": "77GCR-001",
-  "url": "https://consuldesk.ca/resourses/",
+  "url": "https://vanporciuncula.brightsense.io/",
   "offers": {
     "@type": "Offer",
-    "url": "https://consuldesk.ca/resourses/",
+    "url": "https://vanporciuncula.brightsense.io/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,7 +121,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "YY555",
-      "item": "https://consuldesk.ca/resourses/"
+      "item": "https://vanporciuncula.brightsense.io/"
     },
     {
       "@type": "ListItem",
@@ -139,13 +139,13 @@
       "@type": "ListItem",
       "position": 4,
       "name": "YY555 LINK",
-      "item": "https://consuldesk.ca/resourses/"
+      "item": "https://vanporciuncula.brightsense.io/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "YY555 LINK ALTERNATIF",
-      "item": "https://consuldesk.ca/resourses/"
+      "item": "https://vanporciuncula.brightsense.io/"
     }
   ]
 }
@@ -156,7 +156,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "YY555",
-  "url": "https://consuldesk.ca/resourses/",
+  "url": "https://vanporciuncula.brightsense.io/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHp5OFXifcZhqpjf-M15sR1NklYj9SC1fgNPIHmuhAIKZ5wsQME44MzrNJIufQLRHTLgqiXbI6ovUjt5BxIQcN2p07A4IFkl0euaPrsPsi5iOxD7P-kYa04Q2_2UxHlIHOp1oZkK3mZ4AV9bKjKAtU8vAQEhUgY2aRJQjommGUNH4zIwmC3Di0azMT5t_U/w400-h134/20261103_152043885_iOS.png",
   "sameAs": [
     "https://www.facebook.com/YY555",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru">
     <meta property="og:description" content="YY555 Saatnya menjelajahi perkembangan aplikasi hiburan digital melalui fitur interaktif, desain modern, akses yang fleksibel, serta pengalaman mobile yang mengikuti perkembangan teknologi."><meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png" />
     <meta property="og:image:alt" content="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru" />
-    <meta property="og:url" content="https://consuldesk.ca/resourses/">
+    <meta property="og:url" content="https://vanporciuncula.brightsense.io/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -194,7 +194,7 @@
     <meta name="twitter:image:alt" content="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru" />
     <meta property="og:title" content="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://consuldesk.ca/resourses/">
+    <meta property="og:url" content="https://vanporciuncula.brightsense.io/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png" />
     <meta property="og:image:alt" content="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru" />
     <meta property="og:description" content="YY555 Saatnya menjelajahi perkembangan aplikasi hiburan digital melalui fitur interaktif, desain modern, akses yang fleksibel, serta pengalaman mobile yang mengikuti perkembangan teknologi.">
@@ -846,13 +846,13 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://consuldesk.ca/resourses/">YY555</a>
-<a href="https://consuldesk.ca/resourses/">situs alternatif</a>
-<a href="https://consuldesk.ca/resourses/">link alternatif</a>
-<a href="https://consuldesk.ca/resourses/">situs resmi</a>
-<a href="https://consuldesk.ca/resourses/">website resmi</a>
-<a href="https://consuldesk.ca/resourses/">YY555 resmi</a>
-<a href="https://consuldesk.ca/resourses/">situs link alternatif</a>
+<a href="https://vanporciuncula.brightsense.io/">YY555</a>
+<a href="https://vanporciuncula.brightsense.io/">situs alternatif</a>
+<a href="https://vanporciuncula.brightsense.io/">link alternatif</a>
+<a href="https://vanporciuncula.brightsense.io/">situs resmi</a>
+<a href="https://vanporciuncula.brightsense.io/">website resmi</a>
+<a href="https://vanporciuncula.brightsense.io/">YY555 resmi</a>
+<a href="https://vanporciuncula.brightsense.io/">situs link alternatif</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -939,7 +939,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://consuldesk.ca/resourses/">EnvatoMarket</a>
+                    <a href="https://vanporciuncula.brightsense.io/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -947,40 +947,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://consuldesk.ca/resourses/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://vanporciuncula.brightsense.io/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://consuldesk.ca/resourses/">
+                    <a class="off-canvas-left__site" href="https://vanporciuncula.brightsense.io/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -989,7 +989,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://consuldesk.ca/resourses/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://vanporciuncula.brightsense.io/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1004,393 +1004,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://vanporciuncula.brightsense.io/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://vanporciuncula.brightsense.io/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Real
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://vanporciuncula.brightsense.io/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link--empty" href="https://vanporciuncula.brightsense.io/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://vanporciuncula.brightsense.io/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://vanporciuncula.brightsense.io/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link--empty" href="https://vanporciuncula.brightsense.io/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://vanporciuncula.brightsense.io/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://vanporciuncula.brightsense.io/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://vanporciuncula.brightsense.io/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://vanporciuncula.brightsense.io/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link--empty" href="https://vanporciuncula.brightsense.io/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://consuldesk.ca/resourses/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://vanporciuncula.brightsense.io/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Free
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://consuldesk.ca/resourses/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://vanporciuncula.brightsense.io/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://consuldesk.ca/resourses/">Unlimited
+                                    href="https://vanporciuncula.brightsense.io/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1400,7 +1400,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://consuldesk.ca/resourses/">Unlimited
+                            href="https://vanporciuncula.brightsense.io/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1412,18 +1412,18 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://consuldesk.ca/resourses/">
+                <a class="off-canvas-right__link--cart" href="https://vanporciuncula.brightsense.io/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://consuldesk.ca/resourses/  ">
+                <a class="off-canvas-right__link" href="https://vanporciuncula.brightsense.io/  ">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://consuldesk.ca/resourses/  ">
+                <a class="off-canvas-right__link" href="https://vanporciuncula.brightsense.io/  ">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1437,7 +1437,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://consuldesk.ca/resourses/">
+                                    <a class="btn btn--square" href="https://vanporciuncula.brightsense.io/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1454,21 +1454,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://consuldesk.ca/resourses/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://vanporciuncula.brightsense.io/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://consuldesk.ca/resourses/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://vanporciuncula.brightsense.io/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://consuldesk.ca/resourses/">
+                                    <a href="https://vanporciuncula.brightsense.io/">
                                         <img alt="Logo Baru" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHp5OFXifcZhqpjf-M15sR1NklYj9SC1fgNPIHmuhAIKZ5wsQME44MzrNJIufQLRHTLgqiXbI6ovUjt5BxIQcN2p07A4IFkl0euaPrsPsi5iOxD7P-kYa04Q2_2UxHlIHOp1oZkK3mZ4AV9bKjKAtU8vAQEhUgY2aRJQjommGUNH4zIwmC3Di0azMT5t_U/w400-h134/20261103_152043885_iOS.png" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1483,19 +1483,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://consuldesk.ca/resourses/">
+                                    <a href="https://vanporciuncula.brightsense.io/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHp5OFXifcZhqpjf-M15sR1NklYj9SC1fgNPIHmuhAIKZ5wsQME44MzrNJIufQLRHTLgqiXbI6ovUjt5BxIQcN2p07A4IFkl0euaPrsPsi5iOxD7P-kYa04Q2_2UxHlIHOp1oZkK3mZ4AV9bKjKAtU8vAQEhUgY2aRJQjommGUNH4zIwmC3Di0azMT5t_U/w400-h134/20261103_152043885_iOS.png">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://consuldesk.ca/resourses/">
+                                                <a class="global-header-menu__link" href="https://vanporciuncula.brightsense.io/">
                                                     <span class="global-header-menu__link-text">
                                                         YY555
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://consuldesk.ca/resourses/">
+                                                <a class="global-header-menu__link" href="https://vanporciuncula.brightsense.io/">
                                                     <span class="global-header-menu__link-text">
                                                         LINK ALTERNATIF
                                                     </span>
@@ -1504,7 +1504,7 @@
 
 
                                             <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://consuldesk.ca/resourses/  ">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://vanporciuncula.brightsense.io/  ">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Menu</title>
                                                         <path
@@ -1517,7 +1517,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://consuldesk.ca/resourses/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://vanporciuncula.brightsense.io/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1532,7 +1532,7 @@
                                                 </li>
 
                                                 <li class="global-header-menu__list-item -background-light -border-radius">
-                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://consuldesk.ca/resourses/  ">
+                                                    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://vanporciuncula.brightsense.io/  ">
                                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                                         MASUK
                                                     </span>
@@ -1620,10 +1620,10 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://consuldesk.ca/resourses/">YY555</a>
+                                <a class="js-breadcrumb-category" href="https://vanporciuncula.brightsense.io/">YY555</a>
 
 
-                                <a href="https://consuldesk.ca/resourses/" class="js-breadcrumb-category">YY555 LOGIN</a><a class="js-breadcrumb-category" href="https://saynotodrug-yah.pages.dev/333">YY555 DAFTAR</a>
+                                <a href="https://vanporciuncula.brightsense.io/" class="js-breadcrumb-category">YY555 LOGIN</a><a class="js-breadcrumb-category" href="https://saynotodrug-yah.pages.dev/333">YY555 DAFTAR</a>
 
                                 <a class="js-breadcrumb-category" href="https://saynotodrug-yah.pages.dev/333">YY555 LINK ALTERNATIF</a>
                             </nav>
@@ -1639,7 +1639,7 @@
                                     </div>
 
                                     <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://consuldesk.ca/resourses/  ">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://vanporciuncula.brightsense.io/  ">
                                             <span class="item-header__cart-button-icon">
                                                 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBE4undf3G3HF4Wn20AOVXYoXJSrHu9MV425JqHUHazo4oWuVg9zJhgAGyFPPT7T6zcqJXfE1WlJCqK-WZQkPAEA9jG2aPjYr3Rfkw97SKWYM6zoC1VD3FY1w4jScxqc0iJRPVeMcX5ezFPiVb17EkwDHwNr_lnNnwlPZCPp0-JO9D9ZclL58e6la2mPD/w200-h133/20261103_154953157_iOS.png" alt="YY555 LOGIN" width="24" height="24" style="margin-right: 8px;">
                                             </span>
@@ -1653,7 +1653,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://consuldesk.ca/resourses/">YY555</a>
+                                        By <a rel="author" class="js-by-author" href="https://vanporciuncula.brightsense.io/">YY555</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1687,7 +1687,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://consuldesk.ca/resourses/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://vanporciuncula.brightsense.io/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1945,13 +1945,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://consuldesk.ca/resourses/"><span
+                                                        href="https://vanporciuncula.brightsense.io/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://consuldesk.ca/resourses/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://vanporciuncula.brightsense.io/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -1974,7 +1974,7 @@ a:hover {
 
 
 
-                            <a target="_blank" href="https://consuldesk.ca/resourses/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png" alt="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                            <a target="_blank" href="https://vanporciuncula.brightsense.io/  " rel="noopener noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png" alt="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru" width="575" height="575" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nAAYvwrZHzFpquDhfEJbztrfq3Co2PYr4podh6HvPCtbzzUG7B-eTNBnNytTH6Vw8PGinhX91ZCShdIkR_c-i-I-JwQNhPnI-L4syItYmy7tVfiJ2rmDqFB8BegsE0X4xHMd6qhVRo0eFIoYaYdnrxW1FAS-ga23KeKXc157ltSc_N9PN9-fPA2U1udP/s1600/20261103_154951634_iOS.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                 <div class="js- item-preview-image__gallery" data-title="YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                 <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2010,10 +2010,10 @@ a:hover {
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://consuldesk.ca/resourses/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                    <a href="https://vanporciuncula.brightsense.io/  " role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                     </a>
 
-                                    <a data-view="screenshotGallery" href="https://consuldesk.ca/resourses/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                    <a data-view="screenshotGallery" href="https://vanporciuncula.brightsense.io/  " role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                         DAFTAR
                                                     </a>
 
@@ -2028,7 +2028,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://consuldesk.ca/resourses/">
+                                <a class="item-description-toggle__link" href="https://vanporciuncula.brightsense.io/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2067,7 +2067,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;YY555 RESMI ♕ Eksplorasi Aplikasi Game Mobile dengan Konsep Teknologi Digital Terbaru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://consuldesk.ca/resourses/" accept-charset="UTF-8" method="post">
+                                    action="https://vanporciuncula.brightsense.io/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2098,7 +2098,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://consuldesk.ca/resourses//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://vanporciuncula.brightsense.io//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2177,7 +2177,7 @@ a:hover {
                                             </p>
                                         </div>
                             <p>
-                             <a href="https://consuldesk.ca/resourses/" target="_blank">
+                             <a href="https://vanporciuncula.brightsense.io/" target="_blank">
                              <img style="display:block;margin-left:auto;margin-right:auto;" src="https://imgstore.io/images/2024/07/28/final_gif.gif" width="300" height="100"/>
                              </a>
                            </p>
@@ -3334,7 +3334,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         }
 </style>
 <div class="AGT88-fixed-footer">
-    <a href="https://consuldesk.ca/resourses/  " rel="nofollow noopener" target="_blank">
+    <a href="https://vanporciuncula.brightsense.io/  " rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBE4undf3G3HF4Wn20AOVXYoXJSrHu9MV425JqHUHazo4oWuVg9zJhgAGyFPPT7T6zcqJXfE1WlJCqK-WZQkPAEA9jG2aPjYr3Rfkw97SKWYM6zoC1VD3FY1w4jScxqc0iJRPVeMcX5ezFPiVb17EkwDHwNr_lnNnwlPZCPp0-JO9D9ZclL58e6la2mPD/w200-h133/20261103_154953157_iOS.png" alt="BONUS YY555">
         Bonus
     </a>
@@ -3346,7 +3346,7 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBE4undf3G3HF4Wn20AOVXYoXJSrHu9MV425JqHUHazo4oWuVg9zJhgAGyFPPT7T6zcqJXfE1WlJCqK-WZQkPAEA9jG2aPjYr3Rfkw97SKWYM6zoC1VD3FY1w4jScxqc0iJRPVeMcX5ezFPiVb17EkwDHwNr_lnNnwlPZCPp0-JO9D9ZclL58e6la2mPD/w200-h133/20261103_154953157_iOS.png" alt="DAFTAR YY555">
         Daftar
     </a>
-    <a href="https://consuldesk.ca/resourses/  " rel="nofollow noopener" target="_blank"
+    <a href="https://vanporciuncula.brightsense.io/  " rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCBE4undf3G3HF4Wn20AOVXYoXJSrHu9MV425JqHUHazo4oWuVg9zJhgAGyFPPT7T6zcqJXfE1WlJCqK-WZQkPAEA9jG2aPjYr3Rfkw97SKWYM6zoC1VD3FY1w4jScxqc0iJRPVeMcX5ezFPiVb17EkwDHwNr_lnNnwlPZCPp0-JO9D9ZclL58e6la2mPD/w200-h133/20261103_154953157_iOS.png"
             alt="LIVE CHAT YY555">
